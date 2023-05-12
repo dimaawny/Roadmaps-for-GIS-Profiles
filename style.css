@@ -244,3 +244,85 @@ gisanalyst p {
     font-size: 50px;
 }
 
+
+.coursera h2{
+    
+    text-align: center;
+    font-size: 30px;
+}
+
+
+.udemy h2{
+    
+    text-align: center;
+    font-size: 30px;
+}
+
+
+.coursera {
+    
+    
+    font-size: 22px;
+    margin-right: 7%;
+    margin-left: 7%;
+    padding: 50px;
+    color: rgb(50, 46, 51);
+    background:rgba(206, 201, 207,0.7);
+}
+
+.coursera a {
+    
+    text-decoration: none;
+    color: cadetblue;
+    border-style: solid;
+    border-radius: 30px;
+    border-width: 3px;
+    padding: 5px;
+    font-size: 30px;
+    
+}
+
+.coursera a{
+    
+    margin-top: 200px;
+    margin-bottom: 20%;
+    
+    
+}
+
+
+.udemy {
+    
+    font-size: 22px;
+    margin-right: 7%;
+    margin-left: 7%;
+    padding: 50px;
+    color: rgb(50, 46, 51);
+    background:rgba(206, 201, 207,0.7);
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
