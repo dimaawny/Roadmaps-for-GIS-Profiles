@@ -210,7 +210,7 @@ nav ul li a{
 
 .gisspecialist {
     
-    background:rgba(206, 201, 207,0.5);
+    background:rgba(206, 201, 207,0.4);
     font-weight: 550;
     padding: 5%;
    
@@ -332,10 +332,10 @@ gissolutionengineer p {
     background-size:1390px;
     height: 100vh;
     width: 100%;
-    padding-top: ;
     box-sizing: border-box;
     position: relative;
     margin:auto;
+    padding: 100px;
 }
 
 gisanalyst p {
@@ -452,10 +452,26 @@ coursera a{
 }
 
 
+.d {
+    
+    font-size: 30px;
+    margin-left: 3%;
+    
+}
 
+.gisspecialist {
+    
+    padding-right: 30%;
+}
 
-
-
+.gissolutionengineer {
+    
+    padding-right: 40%;
+}
+.gisanalyst {
+    
+    padding-right: 40%;
+}
 
 
 
