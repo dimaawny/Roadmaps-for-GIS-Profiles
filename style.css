@@ -6,10 +6,9 @@
 
 .container {
     
-    
-  
     background-image: url(data/pictures/backgrounds/image.jpg);
     background-clip: padding-box;
+    background-repeat: repeat;
     background-size:1390px;
     height: 100vh;
     width: 100%;
@@ -170,6 +169,23 @@ nav ul li a{
 /* JOB PROFILES */
 
 
+
+.parent {
+    
+    background-image: url(data/pictures/backgrounds/image.jpg);
+    background-color: rgba(206, 201, 207,0.2);
+    background-clip: padding-box;
+    background-size:1390px;
+    height: 100vh;
+    width: 100%;
+    padding-top: ;
+    box-sizing: border-box;
+    position: relative;
+    
+    
+}
+
+
 .gisspecialist {
     
     font-size: 22px;
@@ -179,12 +195,42 @@ nav ul li a{
     color: rgb(50, 46, 51);
     background:rgba(206, 201, 207,0.7);
    
+    background-image: url(data/pictures/backgrounds/image.jpg);
+    background-clip: padding-box;
+    background-repeat: repeat;
+    background-size:1390px;
+    height: 100vh;
+    width: 100%;
+    padding-top: ;
+    box-sizing: border-box;
+    position: relative;
+    margin:auto;
+        
 }
 
+.gisspecialist {
+    
+    background:rgba(206, 201, 207,0.5);
+    font-weight: 550;
+    padding: 5%;
+   
+    
+    
+}
 .gisspecialist h2{
     
     text-align: center;
-    font-size: 50px;
+    font-size: 60px;
+    
+    
+}
+
+.gisspecialist h3{
+    
+    text-align: ;
+    font-size: 35px;
+    
+    
 }
 
 gisspecialist p {
@@ -204,20 +250,49 @@ gisspecialist p {
     color: rgb(50, 46, 51);
     background:rgba(206, 201, 207,0.7);
    
+    background-image: url(data/pictures/backgrounds/image.jpg);
+    background-clip: padding-box;
+    background-repeat: repeat;
+    background-size:1390px;
+    height: 100vh;
+    width: 100%;
+    padding-top: ;
+    box-sizing: border-box;
+    position: relative;
+    margin:auto;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgba(206, 201, 207,0.5);
+    border: 1px solid #000000;
+}
+
+
+
+.gissolutionengineer {
+    
+    background-image: url(data/pictures/backgrounds/image.jpg);
+    background-repeat: repeat;
+    font-weight: 550;
+    padding: 10%;
+    background-color: rgba(206, 201, 207,0.8);
+   
+    
 }
 
 gissolutionengineer p {
     
     text-align: justify;
     
-    
+  
 }
 
 .gissolutionengineer h2{
     
     text-align: center;
     font-size: 50px;
+    
 }
+
 
 
 .gisanalyst {
@@ -229,11 +304,24 @@ gissolutionengineer p {
     color: rgb(50, 46, 51);
     background:rgba(206, 201, 207,0.7);
    
+    
+    background-image: url(data/pictures/backgrounds/image.jpg);
+    background-clip: padding-box;
+    background-repeat: repeat;
+    background-size:1390px;
+    height: 100vh;
+    width: 100%;
+    padding-top: ;
+    box-sizing: border-box;
+    position: relative;
+    margin:auto;
 }
 
 gisanalyst p {
     
     text-align: justify;
+    
+    
    
 }
 
@@ -242,13 +330,17 @@ gisanalyst p {
     
     text-align: center;
     font-size: 50px;
+
 }
+
 
 
 .coursera h2{
     
     text-align: center;
     font-size: 30px;
+    
+    
 }
 
 
@@ -282,9 +374,9 @@ gisanalyst p {
     
 }
 
-.coursera a{
+coursera a{
     
-    margin-top: 200px;
+    margin-top: 200%;
     margin-bottom: 20%;
     
     
@@ -302,15 +394,25 @@ gisanalyst p {
     
 }
 
+.udemy a {
+    
+    text-decoration: none;
+    color: cadetblue;
+    border-style: solid;
+    border-radius: 30px;
+    border-width: 3px;
+    padding: 5px;
+    font-size: 30px;
+
+}
 
 
 
-
-
-
-
-
-
+.wgr imgone {
+    
+    height: 100;
+    width: 100;
+}
 
 
 
