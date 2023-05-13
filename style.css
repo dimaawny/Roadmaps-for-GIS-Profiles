@@ -270,8 +270,14 @@ gisspecialist p {
 
 .gissolutionengineer {
     
-    background-image: url(data/pictures/backgrounds/image.jpg);
-    background-repeat: repeat;
+    
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 20%;
+    padding: 2px;
+    
+    background-color: rgba(29,34,32,0.2);
+    
     font-weight: 550;
     padding: 10%;
     background-color: rgba(206, 201, 207,0.8);
@@ -291,9 +297,24 @@ gissolutionengineer p {
     text-align: center;
     font-size: 50px;
     
+    
 }
 
 
+.gisanalyst {
+    
+    
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 20%;
+    padding: 2px;
+    
+    background-color: rgba(29,34,32,0.2);
+    
+    font-weight: 550;
+    padding: 10%;
+    background-color: rgba(206, 201, 207,0.8);
+}
 
 .gisanalyst {
     
@@ -390,7 +411,7 @@ coursera a{
     margin-left: 7%;
     padding: 50px;
     color: rgb(50, 46, 51);
-    background:rgba(206, 201, 207,0.7);
+    background:rgba(206, 201, 207,0.3);
     
 }
 
@@ -406,7 +427,11 @@ coursera a{
 
 }
 
-
+.udemy {
+    
+    background-color: rgba(187, 153, 255, 0.5);
+    
+}
 
 .wgr imgone {
     
@@ -415,7 +440,16 @@ coursera a{
 }
 
 
-
+.wgr h2 {
+    
+    font-size: 35px;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 60%;
+    padding: 2px;
+    margin: 10px;
+    background-color: rgba(29,34,32,0.2);
+}
 
 
 
