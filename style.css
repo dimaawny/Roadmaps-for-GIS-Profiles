@@ -87,11 +87,13 @@
 }
 
 nav {
+    
     flex: 1;
     padding-left: 60px;
 }
 
 nav ul li{
+    
     display: inline-block;
     
     padding-top: 0px;
@@ -585,3 +587,14 @@ coursera a{
     margin-left: 4%;
     
 }
+
+
+
+
+
+
+
+
+
+
+
